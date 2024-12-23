@@ -16,7 +16,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/neurostackai/vision-nextjs.git
+   git clone https://github.com/neurostackai/VISION.git
    cd vision-nextjs
    ```
 
